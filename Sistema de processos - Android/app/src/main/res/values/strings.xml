@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App de Processos</string>
+    <string name="title_activity_register">Cadastre-se</string>
+     <string name="title_activity_my_process">Meus Processos</string>
+    <string name="title_activity_new_solic">Nova Solicitação</string>
+    <string name="title_activity_detalha_proc">Detalhamento de Processo</string>
+    <string name="title_activity_rank">Rank</string>
+
+
+    <string name="action_perfil">Perfil</string>
+    <string name="action_rank">Rank</string>
+    <string name="action_new_solicitacion">Nova Solicitação</string>
+    <string name="action_sair">Sair</string>
+    <string name="action_fechar">Fechar</string>
+    <string name="action_atualizar">Atualizar</string>
+    <string name="action_rankGeral">Mostrar rank geral</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="prompt_reg_name">Nome</string>
+    <string name="prompt_reg_telephone">Telefone</string>
+    <string name="prompt_reg_email">Email</string>
+    <string name="prompt_reg_path">Endereco</string>
+    <string name="prompt_reg_login">Login</string>
+    <string name="prompt_reg_password">Senha</string>
+    <string name="prompt_reg_check_password">Repita senha</string>
+
+</resources>

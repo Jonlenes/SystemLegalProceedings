@@ -1,2 +1,2 @@
-# SystemLegalProceedings
+# System Legal Proceedings
 A system to control legal proceedings. This system consists of a desktop version, so lawyers can manipulate their processes, a mobile version in which the client can check process data and the lawyer can view their processes and make updates. The entire application is centralized in a web service where it meets the business rules and also makes the connection with the Oracle database.
